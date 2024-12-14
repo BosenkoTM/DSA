@@ -8,11 +8,6 @@
 использован как справочное руководство или для подготовки к техническому собеседованию. Все примеры кода представлены с
 использованием Python.
 
-Если вам понравилось содержимое, ставьте звездочку репозиторию на github.
-[https://github.com/agorinenko/data-structures-and-algorithms/](https://github.com/agorinenko/data-structures-and-algorithms/)
-
-Об авторе: [https://gorinenko.ru/](https://gorinenko.ru/)
-
 ## Оглавление
 
 [Сложность алгоритмов](tutorial/intro.md) (в работе)
